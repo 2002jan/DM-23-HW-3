@@ -1,0 +1,4 @@
+outs:
+- md5: 2160e2768c368554cc035c254761cb60
+  size: 14711804
+  path: data_stand_hot_svd_kmeans.csv

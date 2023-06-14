@@ -1,0 +1,4 @@
+outs:
+- md5: c5535c54f434b1ba913e34c1513cad3a
+  size: 15103427
+  path: data_stand_nohot_svd_dbscan.csv

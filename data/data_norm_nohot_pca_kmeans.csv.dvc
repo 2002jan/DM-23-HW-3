@@ -1,0 +1,4 @@
+outs:
+- md5: 8044898bd83d8124e71dc1d800ce149c
+  size: 13945279
+  path: data_norm_nohot_pca_kmeans.csv

@@ -1,0 +1,4 @@
+outs:
+- md5: ae20ef35828d60ad02c8a343046949a3
+  size: 15103823
+  path: data_stand_hot_svd_dbscan.csv

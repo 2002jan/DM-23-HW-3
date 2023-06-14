@@ -1,0 +1,4 @@
+outs:
+- md5: 16510eef1655e008360db328bb5aa700
+  size: 13382646
+  path: data_stand_hot_pca_kmeans.csv
