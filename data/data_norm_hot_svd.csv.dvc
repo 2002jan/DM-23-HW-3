@@ -1,0 +1,4 @@
+outs:
+- md5: e8f6c180131e18d78f3cbd9510354fb2
+  size: 13460934
+  path: data_norm_hot_svd.csv

@@ -1,0 +1,4 @@
+outs:
+- md5: 7b6f7dfce7d231afcebb33221e859434
+  size: 13535404
+  path: data_stand_nohot_svd.csv

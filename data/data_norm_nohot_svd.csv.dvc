@@ -1,0 +1,4 @@
+outs:
+- md5: 306f30b6df7c0d9c9bfc0d8e73c7ebf1
+  size: 13500940
+  path: data_norm_nohot_svd.csv

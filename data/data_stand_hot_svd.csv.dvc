@@ -1,0 +1,4 @@
+outs:
+- md5: ad33d36f2d010fcc34e9171f2453fbe9
+  size: 13535800
+  path: data_stand_hot_svd.csv

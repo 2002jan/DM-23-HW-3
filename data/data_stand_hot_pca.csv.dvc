@@ -1,0 +1,4 @@
+outs:
+- md5: fc66a16d43b4f1693e0d680b521f0eef
+  size: 12206636
+  path: data_stand_hot_pca.csv

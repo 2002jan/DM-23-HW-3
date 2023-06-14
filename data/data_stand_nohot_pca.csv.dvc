@@ -1,0 +1,4 @@
+outs:
+- md5: 916c72ef110428eae21c80f59f14a24c
+  size: 12207171
+  path: data_stand_nohot_pca.csv

@@ -1,1 +1,9 @@
 /data.csv
+/data_norm_hot_pca.csv
+/data_norm_hot_svd.csv
+/data_norm_nohot_pca.csv
+/data_norm_nohot_svd.csv
+/data_stand_hot_pca.csv
+/data_stand_hot_svd.csv
+/data_stand_nohot_pca.csv
+/data_stand_nohot_svd.csv

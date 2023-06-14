@@ -1,0 +1,4 @@
+outs:
+- md5: 2a6b06065e5a30a17a8d07d9d884edaf
+  size: 12769269
+  path: data_norm_nohot_pca.csv
